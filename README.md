@@ -6,7 +6,7 @@ Measures the total duration of all of the wav files in a folder
 
 But.. I recommend using pipx, so it's always available for you.
 
-`sudo apt install pipx`
+`sudo apt install pipx`  
 `pipx install folder-duration`
 
 # Usage
